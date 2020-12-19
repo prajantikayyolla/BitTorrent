@@ -1,0 +1,9 @@
+<netio>
+    <name>MyNetIO</name>
+    <port>6001</port>
+    <provider-type>NIO</provider-type>
+    <netio-client>
+        <name>MyNetIOClient</name>
+        <provider-type>NIO</provider-type>
+    </netio-client>
+</netio>
